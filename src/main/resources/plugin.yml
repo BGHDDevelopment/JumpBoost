@@ -1,3 +1,4 @@
 name: JumpBoost
 version: ${project.version}
 main: net.noodles.jump.main.Main
+author: BGHDDevelopment
